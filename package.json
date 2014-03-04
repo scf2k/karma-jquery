@@ -1,0 +1,29 @@
+{
+  "name": "karma-jquery",
+  "version": "0.1.0",
+  "description": "A Karma plugin - adapter for jQuery framework.",
+  "author": "Vladimir Alaev <scf2k@yandex.ru> (http://github.com/scf2k)",
+  "main": "./index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scf2k/karma-jquery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scf2k/karma-jquery/issues"
+  },
+  "homepage": "https://github.com/scf2k/karma-jquery",
+  "keywords": [
+    "karma-plugin",
+    "karma-framework",
+    "jquery"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "readme": "karma-jquery\n=================\n\nKarma plugin for jQuery framework\n",
+  "readmeFilename": "README.md",
+  "_id": "karma-jquery@0.1.0",
+  "_from": "karma-jquery@"
+}
