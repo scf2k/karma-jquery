@@ -46,6 +46,8 @@ Note: configure plugin under `karma-jquery` name, in the frameworks array speify
  * 1.10.1
  * 1.10.2
  * 1.11.0
+ * 1.11.3
+ * 1.12.4
  * 2.0.0
  * 2.0.1
  * 2.0.2
@@ -63,4 +65,5 @@ Note: configure plugin under `karma-jquery` name, in the frameworks array speify
  * 3.0.0
  * 3.1.0
  * 3.1.1
+ * 3.2.1
  
