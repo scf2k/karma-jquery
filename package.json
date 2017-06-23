@@ -1,6 +1,6 @@
 {
   "name": "karma-jquery",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A Karma plugin - adapter for jQuery framework.",
   "author": "Vladimir Alaev <scf2k@yandex.ru> (http://github.com/scf2k)",
   "main": "./index.js",
@@ -24,6 +24,6 @@
   },
   "readme": "karma-jquery\n=================\n\nKarma plugin for jQuery framework\n",
   "readmeFilename": "README.md",
-  "_id": "karma-jquery@0.2.1",
+  "_id": "karma-jquery@0.2.2",
   "_from": "karma-jquery@"
 }
